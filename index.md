@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# MHA Consulting Engineers, Inc.
+_Proudly serving the San Francisco Bay Area for over 20 years._
 
-You can use the [editor on GitHub](https://github.com/heisian/mha/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Services
+Whether remodeling your home, building your dream home from scratch, or developing a commercial property, MHA Consulting Engineers can provide the services you need:
+* Structural Engineering
+* Special Inspection
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are [licensed](https://search.dca.ca.gov/details/7500/C/58502/8cf3488d4eeeabdd8088e3cc1d816dd4) in the State of California. 
 
-### Markdown
+# Estimates
+If you are an architect, owner, or developer and need an accurate estimate for your project, we require the following:
+1. General project description.
+2. Fully-detailed plans in PDF or CAD (.dwg) format.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please e-mail [info@mhaeng.com](mailto:info@mhaeng.com) with your files attached.
 
-```markdown
-Syntax highlighted code block
+# Projects
+To start work, we require the following:
+1. A 50% retainer, and a signed copy of our terms & conditions.
+2. CAD (.dwg) plans including all floors, roof, sections, and elevations within the scope of work.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heisian/mha/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please e-mail [info@mhaeng.com](mailto:info@mhaeng.com) with your files attached.
