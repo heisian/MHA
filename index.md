@@ -1,6 +1,3 @@
-# MHA Consulting Engineers, Inc.
-_Proudly serving the San Francisco Bay Area for over 20 years._
-
 ## Services
 Whether remodeling your home, building your dream home from scratch, or developing a commercial property, MHA Consulting Engineers can provide the services you need:
 * **Structural Engineering**
