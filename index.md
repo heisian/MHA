@@ -13,7 +13,7 @@ If you are an architect, owner, or developer and need an estimate for your proje
 1. General project description.
 2. Fully-detailed plans in PDF or CAD (.dwg) format.
 
-Please e-mail [info@mhaeng.com](mailto:info@mhaeng.com) with your files attached.
+Please e-mail [info@mhaeng.com](mailto:info@mhaeng.com) with your files attached. We will get back to you with a proposal.
 
 ### Kick Off Your Project
 To start work, we require:
